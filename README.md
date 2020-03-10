@@ -1,6 +1,8 @@
 # Website-YATRA.BY
 Website YATRA.BY (WordPress CMS) + base SQL. Social project. Network of sites. Charity project.
 
+Youtube video tutorial:
+
 Yatra.by. The purpose of the site and its capabilities.
 https://youtu.be/bWgFki1PNOQ
 
